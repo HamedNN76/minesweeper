@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Game /> Match Game to SnapShot 1`] = `
+<p>
+  Choose a level and click on Play
+</p>
+`;
