@@ -27,7 +27,7 @@ function App() {
 
   useEffect(() => {
     dispatch(init());
-  }, []);
+  }, [dispatch]);
 
   const onPlayGame = useCallback(() => {
     dispatch(createGame(`new ${level}`));
